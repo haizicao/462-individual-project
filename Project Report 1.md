@@ -6,3 +6,5 @@ After running the code in Step 1, we can get the following results:
 ![step1.2](https://github.com/haizicao/462-individual-project/blob/f4bf72b43a92d607ce7b3ae31e1f6806c60af562/step1.2.png)
 ![step1.3](https://github.com/haizicao/462-individual-project/blob/f4bf72b43a92d607ce7b3ae31e1f6806c60af562/step1.3.png)
 ![step1.4](https://github.com/haizicao/462-individual-project/blob/f4bf72b43a92d607ce7b3ae31e1f6806c60af562/step1.4.png)
+# 3. Self Reflection
+By running the above example, I think that to implement visual SLAM, I first need to collect scene data in advance. Then I can use the above code for map initialization and camera trajectory estimation and optimization. In addition, when collecting data, I think using sharp-edged objects may make visual SLAM more successful.
