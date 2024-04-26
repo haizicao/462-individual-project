@@ -1,0 +1,3 @@
+# 462-individual-project
+In this project, we will use MATLAB to perform SLAM work. We divide the entire process into two major steps. In the first step, we will conduct a step-by-step analysis of the data set provided by the TUM RGB-D benchmark, and then we will test ourselves from data collection to the improvement of the estimated trajectory. Here we will show the code execution of each part and the corresponding results. For running the code of this project, our MATLAB needs to install the following additional toolboxes: Computer Vision Toolbox and MATLAB Coder. These two toolboxes can be downloaded directly through the MATLAB toolbox search.
+Please check the project report for details.
