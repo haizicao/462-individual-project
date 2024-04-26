@@ -3,6 +3,6 @@ To achieve visual SLAM, we first need to collect pictures of relevant scenes thr
 # 2. Run the code and results of Step1
 After running the code in Step 1, we can get the following results:
 ![step1.1](https://github.com/haizicao/462-individual-project/blob/417bd3bfb92aefe33e67a025a5e61efbadb63fb1/step1.1.png)
-![step1.2]()
-![step1.3]()
-![step1.4]()
+![step1.2](https://github.com/haizicao/462-individual-project/blob/f4bf72b43a92d607ce7b3ae31e1f6806c60af562/step1.2.png)
+![step1.3](https://github.com/haizicao/462-individual-project/blob/f4bf72b43a92d607ce7b3ae31e1f6806c60af562/step1.3.png)
+![step1.4](https://github.com/haizicao/462-individual-project/blob/f4bf72b43a92d607ce7b3ae31e1f6806c60af562/step1.4.png)
