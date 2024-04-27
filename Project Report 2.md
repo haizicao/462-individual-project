@@ -8,3 +8,4 @@ After running the code of Step 2, we can get the following results in turn:
 ![step2.3](https://github.com/haizicao/462-individual-project/blob/e225da320628b5b3234e98bc5d4c68e530639bb8/step2.3.png)
 ![step2.4](https://github.com/haizicao/462-individual-project/blob/e225da320628b5b3234e98bc5d4c68e530639bb8/step2.4.png)
 # 3. Conclusion
+Through this individual project, I think my understanding of visual SLAM has become deeper. Visual SLAM can use the collected image data set to obtain an estimated route of the camera trajectory, which also allows the robot to build a real-time and error-free map in its mind.
