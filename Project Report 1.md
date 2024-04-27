@@ -1,6 +1,6 @@
 # 1. Main steps of SLAM
-## 1. Collect pictures of relevant scenes through the camera and initialize the map
-## 2. Match the features of the current frame with the features of the last key frame
+## 1. Collect pictures of scenes and initialize the map
+## 2. Feature matching
 ## 3. Perform local mapping on each keyframe
 ## 4. Check loop closure
 ## 5. Compare the optimized camera trajectory with the ground truth
